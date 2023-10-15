@@ -6,3 +6,4 @@ import ScatterPlot from './charts/scatter-plot'
 import SeriesChart from './charts/series-chart'
 
 export {BarChart, LineChart, PieChart, RowChart, ScatterPlot, SeriesChart}
+ 
