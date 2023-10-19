@@ -19,7 +19,7 @@ namespace PeachPied.Demo
             //
             var host = WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
-                .UseUrls("http://*:5004/")
+                .UseUrls("http://*:3000/")
                 .Build();
 
             host.Run();
